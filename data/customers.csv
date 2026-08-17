@@ -1,0 +1,51 @@
+customer_id,company_name,industry,employee_count,segment,annual_contract_value,account_manager_id
+1,Nelson-Schaefer,"Surveyor, hydrographic",225,Mid-Market,80616.29,3
+2,Cohen Inc,Estate manager/land agent,46,SMB,18533.99,1
+3,Trujillo Group,"Geologist, wellsite",232,Mid-Market,27234.79,3
+4,Clark PLC,International aid/development worker,174,SMB,5530.72,1
+5,Rios Group,Proofreader,918,Mid-Market,65870.61,3
+6,Baker and Sons,"Surveyor, mining",484,Mid-Market,85707.28,3
+7,"Baker, Richards and Hurst",Oceanographer,1653,Enterprise,379255.76,6
+8,Robinson-Bright,Sales executive,75,SMB,24144.26,2
+9,Davis-Williams,Clinical molecular geneticist,117,SMB,6934.33,2
+10,Burton Ltd,"Pharmacist, hospital",244,Mid-Market,79729.88,3
+11,"Brown, James and Ferrell",Seismic interpreter,2550,Enterprise,131520.08,6
+12,Maddox-Valencia,"Administrator, arts",3533,Enterprise,454180.7,6
+13,"Le, Maldonado and Herrera","Geologist, engineering",921,Mid-Market,30216.64,3
+14,"Peterson, Carter and Moore","Accountant, chartered certified",1326,Enterprise,442127.09,5
+15,"Liu, Baker and Mason","Editor, magazine features",136,SMB,17713.69,2
+16,"Gaines, Harrell and Evans","Runner, broadcasting/film/video",110,SMB,9190.14,2
+17,"Gonzalez, Brooks and Martin",Set designer,899,Mid-Market,73602.65,3
+18,George Group,Advertising account executive,450,Mid-Market,37255.19,4
+19,Hickman LLC,Film/video editor,183,SMB,18763.24,1
+20,Allen PLC,Careers information officer,986,Mid-Market,83199.99,3
+21,Dennis Inc,Site engineer,4297,Enterprise,226181.22,6
+22,Anderson Group,Stage manager,165,SMB,22527.35,2
+23,Baker PLC,Pharmacologist,147,SMB,12912.64,2
+24,Hickman Ltd,"Engineer, control and instrumentation",55,SMB,9932.55,2
+25,"Collins, Carney and Santos",Primary school teacher,638,Mid-Market,92336.72,4
+26,"Hayes, Wright and Brown",Advertising art director,55,SMB,15190.53,1
+27,"Spencer, Chapman and Smith",Barrister's clerk,4527,Enterprise,143859.65,5
+28,Jones Inc,Lawyer,2729,Enterprise,338563.61,6
+29,Palmer LLC,"Radiographer, diagnostic",139,SMB,15582.29,1
+30,Ryan Ltd,"Teacher, English as a foreign language",317,Mid-Market,76128.28,4
+31,"Kennedy, Mueller and Aguirre",Energy manager,2393,Enterprise,144620.87,6
+32,Davis Group,Manufacturing systems engineer,20,SMB,24076.32,2
+33,Jenkins-Shields,Audiological scientist,4120,Enterprise,171460.75,5
+34,"Valdez, Lucas and Brown","Librarian, academic",2222,Enterprise,436667.74,5
+35,Wright and Sons,Software engineer,61,SMB,15787.58,1
+36,Taylor-White,"Psychologist, counselling",700,Mid-Market,26460.76,4
+37,Baxter Inc,Probation officer,4406,Enterprise,422709.92,5
+38,"Garcia, Pearson and Fernandez","Administrator, local government",165,SMB,23938.99,1
+39,House and Sons,Dietitian,270,Mid-Market,98348.84,3
+40,Tucker-Lewis,Oncologist,141,SMB,23936.97,1
+41,Martin Inc,Newspaper journalist,175,SMB,13462.76,1
+42,House-Glover,Higher education lecturer,4093,Enterprise,391972.43,5
+43,Horton-Cross,"Surveyor, commercial/residential",608,Mid-Market,99636.2,4
+44,"Higgins, Moore and Phillips",Barrister,729,Mid-Market,58861.46,3
+45,"Fitzgerald, Brown and Edwards",Arts administrator,106,SMB,5420.69,1
+46,"Woods, Calhoun and Schmidt",Barista,207,Mid-Market,30324.48,3
+47,"Miller, Lopez and Larson",Farm manager,28,SMB,22192.71,1
+48,Wilson-Zamora,Fine artist,485,Mid-Market,75173.33,3
+49,"Wheeler, Harvey and Barnes",Television production assistant,940,Mid-Market,95163.57,4
+50,"Mills, Donovan and Harris",Interior and spatial designer,141,SMB,21149.94,1
